@@ -681,6 +681,22 @@ footer ul.quicklinks {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+.plist {
+    list-style-type: decimal;
+}
+
+.pub {
+    color: #716f6f;
+    font-family: serif;
+    letter-spacing: 2px;
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 24px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+
 ul.social-buttons {
   margin-bottom: 0;
 }
