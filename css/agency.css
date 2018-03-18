@@ -129,7 +129,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
-  font-size: 90%;
+  font-size: 80%;
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
@@ -137,8 +137,9 @@ img::-moz-selection {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: darkgrey;
+  color: #fed136;
 }
 
 @media (min-width: 992px) {
@@ -687,7 +688,7 @@ footer ul.quicklinks {
 
 .pub {
     color: #716f6f;
-    font-family: serif;
+    font-family: sans-serif;
     letter-spacing: 2px;
     font-size: 16px;
     font-weight: 500;
@@ -707,7 +708,6 @@ ul.social-buttons {
     height: 70px;
     margin-right: 20px;
     border-radius: 5px 5px;
-    opacity: 0.9;
 }
 
 
